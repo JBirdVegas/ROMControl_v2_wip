@@ -147,8 +147,8 @@ public class BaseSetting extends LinearLayout {
             e.printStackTrace();
         } catch (NoSuchMethodException e) {
             e.printStackTrace();
-        } catch (ClassNotFoundException e1) {
-            e1.printStackTrace();
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
         }
         if (mOnSettingChangedListener != null) {
             mOnSettingChangedListener.onSettingChanged(getTable(), key, currentVal, s);

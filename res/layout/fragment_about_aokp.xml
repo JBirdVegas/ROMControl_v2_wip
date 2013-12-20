@@ -19,6 +19,7 @@
                 aokp:githubLink="@string/github_aokp"
                 aokp:donateLink="@string/donate_aokp"
                 aokp:emailDev="github@aokp.co"
+                aokp:blurb="I wise man never plays leapfrog with a unicorn"
 
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
@@ -286,6 +287,7 @@
                 aokp:twitterHandle="JBird_Vegas"
                 aokp:githubLink="@string/github_jbirdvegas"
                 aokp:emailDev="jbirdvegas@aokp.co"
+                aokp:blurb="The Objectification Of Women... public Women() { }"
 
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

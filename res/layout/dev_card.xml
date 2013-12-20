@@ -71,7 +71,5 @@
                 android:layout_alignParentRight="true"
                 android:scaleType="centerInside"
                 android:src="@drawable/github"/>
-
     </RelativeLayout>
-
 </merge>
